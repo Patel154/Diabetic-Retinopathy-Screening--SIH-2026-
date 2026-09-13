@@ -19,9 +19,14 @@ local.properties
 retina_bridge.db
 retina_bridge.db-*
 data/
+dataset/
 uploads/
 reports/
 *.pdf
+*.zip
+*.ppt
+*.pptx
+runtime/
 
 # Private model weights, datasets and generated evaluation artifacts
 models/*.mat
