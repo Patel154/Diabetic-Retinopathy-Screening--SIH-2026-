@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+local.properties
+
+# Patient data and generated local artifacts
+retina_bridge.db
+retina_bridge.db-*
+data/
+uploads/
+reports/
+*.pdf
+
+# Private model weights, datasets and generated evaluation artifacts
+models/*.mat
+models/*.json
+models/*.csv
+models/*.slx
+
+# Android/Gradle generated files
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+android/local.properties
+
+# MATLAB generated files
+*.asv
+*.autosave
+slprj/
+work/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
