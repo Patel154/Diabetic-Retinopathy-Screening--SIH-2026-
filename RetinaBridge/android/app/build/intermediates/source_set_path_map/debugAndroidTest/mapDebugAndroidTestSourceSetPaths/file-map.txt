@@ -1,0 +1,4 @@
+com.retinabridge.app.test.app-androidTest-0 D:\SIH\RetinaBridge\android\app\build\generated\res\resValues\androidTest\debug
+com.retinabridge.app.test.app-mergeDebugAndroidTestResources-1 D:\SIH\RetinaBridge\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.retinabridge.app.test.app-mergeDebugAndroidTestResources-2 D:\SIH\RetinaBridge\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.retinabridge.app.test.app-debugAndroidTest-3 D:\SIH\RetinaBridge\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:1:1-19:12
+	package
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:2:22-64
+application
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:3:5-18:19
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:3:5-18:19
+	android:extractNativeLibs
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:5:9-37
+	android:allowBackup
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:4:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:6:9-44
+activity#com.retinabridge.app.MainActivity
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:9:9-17:20
+	android:screenOrientation
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:11:13-49
+	android:exported
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SIH\RetinaBridge\android\app\src\main\AndroidManifest.xml

@@ -1,0 +1,7 @@
+com.retinabridge.app-pngs-0 D:\SIH\RetinaBridge\android\app\build\generated\res\pngs\debug
+com.retinabridge.app-resValues-1 D:\SIH\RetinaBridge\android\app\build\generated\res\resValues\debug
+com.retinabridge.app-packageDebugResources-2 D:\SIH\RetinaBridge\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.retinabridge.app-packageDebugResources-3 D:\SIH\RetinaBridge\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.retinabridge.app-debug-4 D:\SIH\RetinaBridge\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.retinabridge.app-debug-5 D:\SIH\RetinaBridge\android\app\src\debug\res
+com.retinabridge.app-main-6 D:\SIH\RetinaBridge\android\app\src\main\res

@@ -1,0 +1,1 @@
+com.retinabridge.app:style/AppTheme = 0x7f010000
